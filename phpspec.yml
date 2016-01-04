@@ -1,0 +1,5 @@
+suites:
+    riyono_suite:
+        namespace: Riyono
+        psr4_prefix: Riyono
+
