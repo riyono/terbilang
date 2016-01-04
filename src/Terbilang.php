@@ -3,7 +3,7 @@
 namespace Riyono;
 
 /*
- * Number spelling in Indonesian language, for huge numbers too.
+ * Number spelling in the Indonesian language, for huge numbers too.
  *
  * Most PHP libraries I seen (as of the time of writing) only deals with
  * numbers up to 10^12 (triliun). What if you need to convert numbers
