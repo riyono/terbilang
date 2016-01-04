@@ -2,7 +2,7 @@
     "name": "riyono/terbilang",
     "description": "Number spelling in Indonesian language, for huge numbers too.",
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=5.4.0"
     },
     "autoload": {
         "psr-4": {"Riyono\\": "src/"}
